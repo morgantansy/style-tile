@@ -3,13 +3,33 @@
 /***************/
 
 /* Color Palette */
-
-
+.color-1 {
+background: green;
+}
+.color-2 {
+background: red;
+}
+.color-3 {
+background: white;
+}
 /* Textures or Patterns*/
 
+.pattern-1 {
+background: url("https://myblueflamingo.files.wordpress.com/2014/12/xmas-pattern1.png");
+}
 
+.pattern-2 {
+
+}
 /* Imagery */
 
+.imagery-2 {
+background: url("http://www.thecutmagazine.com/wp-content/uploads/2014/12/tree.jpg");
+}
+
+imagery-3 {
+background: url("http://hdwallpapersimage.com/wp-content/uploads/2014/06/hdwallpapersimage.com-sunrise-on-a-snowy-forest-wide-hd-wallpaper-1920x1200.jpg");
+}
 
 /* Icons */
 
