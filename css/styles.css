@@ -4,31 +4,39 @@
 
 /* Color Palette */
 .color-1 {
-background: green;
+background: rgb(128, 167, 4);
 }
 .color-2 {
-background: red;
+background: rgb(241, 204, 5);
 }
 .color-3 {
-background: white;
+background: rgb(146, 145, 160);
 }
 /* Textures or Patterns*/
 
 .pattern-1 {
-background: url("https://myblueflamingo.files.wordpress.com/2014/12/xmas-pattern1.png");
+background-image: url(..//img/Lavender+bees+pattern+wr+2.jpg)
 }
 
 .pattern-2 {
+    background-image: url(..//img/f3a2-vector-watercolor-pattern-floral-texture-hand-drawn-flowers-plants-floral-ornament-original-floral-background-49598911.jpg);
 
 }
 /* Imagery */
 
+.imagery-1 {
+background: url(..//img/Lavender.jpg);
+    background-size: contain;
+}
+
 .imagery-2 {
-background: url("http://www.thecutmagazine.com/wp-content/uploads/2014/12/tree.jpg");
+background: url(..//img/lemons%20and%20lavender.jpg);
+    background-size: contain;
 }
 
 imagery-3 {
-background: url("http://hdwallpapersimage.com/wp-content/uploads/2014/06/hdwallpapersimage.com-sunrise-on-a-snowy-forest-wide-hd-wallpaper-1920x1200.jpg");
+background: url(..//img/5221677213_3baff131a5_o.jpg);
+    background-size: contain;
 }
 
 /* Icons */
