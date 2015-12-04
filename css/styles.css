@@ -20,7 +20,11 @@ background-image: url(..//img/Lavender+bees+pattern+wr+2.jpg)
 
 .pattern-2 {
     background-image: url(..//img/f3a2-vector-watercolor-pattern-floral-texture-hand-drawn-flowers-plants-floral-ornament-original-floral-background-49598911.jpg);
+}
 
+.pattern-3 {
+    background-image: url(http://images.nationalgeographic.com/wpf/media-live/photos/000/093/cache/white-birch-trees_9392_990x742.jpg);
+        background-size: contain
 }
 /* Imagery */
 
@@ -35,7 +39,7 @@ background: url(..//img/lemons%20and%20lavender.jpg);
 }
 
 imagery-3 {
-background: url(..//img/5221677213_3baff131a5_o.jpg);
+background-image: url(http://images.nationalgeographic.com/wpf/media-live/photos/000/093/cache/white-birch-trees_9392_990x742.jpg);
     background-size: contain;
 }
 
