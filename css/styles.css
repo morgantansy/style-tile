@@ -43,6 +43,26 @@ background-image: url(http://images.nationalgeographic.com/wpf/media-live/photos
     background-size: contain;
 }
 
+/* Navigation */
+ nav ul {
+  margin-top: 0px;
+}
+nav li {
+  
+  list-style: none;
+float: left;
+    background:rgb(146, 145, 160);
+}
+
+nav a:focus,
+nav a:active,
+nav a:hover {
+  background: rgb(128, 167, 4);
+  color: background: rgb(241, 204, 5);
+   padding-top: 32px;
+}
+
+
 /* Icons */
 
 
