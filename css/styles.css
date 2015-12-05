@@ -67,8 +67,14 @@ nav a:hover {
 
 
 /* Typography */
+body {
+font-family: 'Arapey', serif;
 
+} 
 
+p {
+font-family: 'PT Sans', sans-serif;
+}
 /* Forms */
 
 
